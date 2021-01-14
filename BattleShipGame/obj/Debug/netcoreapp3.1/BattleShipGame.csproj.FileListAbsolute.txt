@@ -1,0 +1,13 @@
+C:\Users\Danny\source\repos\BattleShipGame\BattleShipGame\bin\Debug\netcoreapp3.1\BattleShipGame.exe
+C:\Users\Danny\source\repos\BattleShipGame\BattleShipGame\bin\Debug\netcoreapp3.1\BattleShipGame.deps.json
+C:\Users\Danny\source\repos\BattleShipGame\BattleShipGame\bin\Debug\netcoreapp3.1\BattleShipGame.runtimeconfig.json
+C:\Users\Danny\source\repos\BattleShipGame\BattleShipGame\bin\Debug\netcoreapp3.1\BattleShipGame.runtimeconfig.dev.json
+C:\Users\Danny\source\repos\BattleShipGame\BattleShipGame\bin\Debug\netcoreapp3.1\BattleShipGame.dll
+C:\Users\Danny\source\repos\BattleShipGame\BattleShipGame\bin\Debug\netcoreapp3.1\BattleShipGame.pdb
+C:\Users\Danny\source\repos\BattleShipGame\BattleShipGame\obj\Debug\netcoreapp3.1\BattleShipGame.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\BattleShipGame\BattleShipGame\obj\Debug\netcoreapp3.1\BattleShipGame.AssemblyInfo.cs
+C:\Users\Danny\source\repos\BattleShipGame\BattleShipGame\obj\Debug\netcoreapp3.1\BattleShipGame.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\BattleShipGame\BattleShipGame\obj\Debug\netcoreapp3.1\BattleShipGame.dll
+C:\Users\Danny\source\repos\BattleShipGame\BattleShipGame\obj\Debug\netcoreapp3.1\BattleShipGame.pdb
+C:\Users\Danny\source\repos\BattleShipGame\BattleShipGame\obj\Debug\netcoreapp3.1\BattleShipGame.genruntimeconfig.cache
+C:\Users\Danny\source\repos\BattleShipGame\BattleShipGame\obj\Debug\netcoreapp3.1\BattleShipGame.csprojAssemblyReference.cache
